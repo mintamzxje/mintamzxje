@@ -8,7 +8,7 @@
     <a href="https://www.facebook.com/mintamzxje">
         <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook" alt="Facebook">
     </a>
-    <a href="am237doc@gmail.com">
+    <a href="mailto:am237doc@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail" alt="Gmail">
     </a>
 </p>
@@ -21,3 +21,9 @@
 ### Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/mintamzxje)
 [![SpringBoot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/mintamzxje)
+
+<p align="center">
+  <a href="https://github.com/mintamzxje">
+    <img src="https://komarev.com/ghpvc/?username=mintamzxje&color=blue&style=flat)" />
+  </a>
+</p>
