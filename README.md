@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-<!--
-**mintamzxje/mintamzxje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Đỗ Tâm.<br>
+    </i><br>
+    <a href="https://www.facebook.com/mintamzxje">
+        <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook" alt="Facebook">
+    </a>
+    <a href="am237doc@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail" alt="Gmail">
+    </a>
+</p>
 
-Here are some ideas to get you started:
+### Languages
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/mintamzxje)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/mintamzxje)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/mintamzxje)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/mintamzxje)
+[![SpringBoot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/mintamzxje)
