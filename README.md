@@ -14,9 +14,8 @@
 </p>
 
 ### Languages
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/mintamzxje)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://github.com/mintamzxje)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/mintamzxje)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)](https://github.com/mintamzxje)
 
 ### Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/mintamzxje)
