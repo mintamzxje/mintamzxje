@@ -15,6 +15,7 @@
 
 ### Languages
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://github.com/mintamzxje)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=)](https://github.com/mintamzxje)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)](https://github.com/mintamzxje)
 
 ### Frameworks
