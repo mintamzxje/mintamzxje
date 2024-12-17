@@ -20,6 +20,7 @@
 
 ### Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/mintamzxje)
+[![Flutter](https://img.shields.io/badge/react-black?style=for-the-badge&logo=flutter)](https://github.com/mintamzxje)
 [![SpringBoot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/mintamzxje)
 
 <p align="center">
