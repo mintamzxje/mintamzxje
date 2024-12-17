@@ -23,6 +23,20 @@
 [![SpringBoot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/mintamzxje)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/mintamzxje)
 
+<details>
+<p align="center">
+  <a href="https://github.com/mintamzxje">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mintamzxje&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mintamzxje&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/wervlad">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mintamzxje&theme=transparent" />
+  </a>
+</p>
+</details>
+
 <p align="center">
   <a href="https://github.com/mintamzxje">
     <img src="https://komarev.com/ghpvc/?username=mintamzxje&color=blue&style=flat)" />
