@@ -5,7 +5,7 @@
     <i>
         I'm Đỗ Tâm.<br>
     </i><br>
-    <a href="https://www.facebook.com/mintamzxje">
+    <a href="https://www.facebook.com/">
         <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook" alt="Facebook">
     </a>
     <a href="mailto:am237doc@gmail.com">
